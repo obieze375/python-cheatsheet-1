@@ -686,6 +686,20 @@ None
 42.0
 ```
 
+### Try-Except 
+
+```
+try:
+  print("Hello")
+except:
+  print("Something went wrong")
+else:
+  print("Nothing went wrong")
+
+```
+
+### 
+
 ### Final code in exception handling
 
 Code inside the `finally` section is always executed, no matter if an exception has been raised or
